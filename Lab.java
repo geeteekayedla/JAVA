@@ -1,4 +1,4 @@
-class Lab
+public class Lab
 {
 public static void main(String[] args) {
 	    int a=9,b=8;
